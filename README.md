@@ -15,13 +15,59 @@
   <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web-green?style=flat-square" />
 </p>
 
-> **This is a demo repository.** It showcases the architecture and features of Champions. The full source code is in a private repository. Screenshots coming soon.
+> **This is a demo repository.** It showcases the architecture and features of Champions. The full source code is in a private repository.
 
 ---
 
 ## What Is Champions?
 
 A complete restaurant ordering platform for a multi-branch food business. Customers select a branch, browse the menu, build a cart, checkout, and track their order in real-time. Owners manage everything from an admin panel.
+
+---
+
+## Screenshots
+
+### Branch Selection
+Choose from multiple restaurant locations with live status, hours, and service tags (Delivery, Collection).
+
+<p align="center">
+  <img src="screenshots/01-branch-select.png" alt="Branch Selection" width="300" />
+</p>
+
+### Home Screen
+Hero section with promotions, category scrolling (Champions, Beef Burgers, Chicken, Wraps, Fries), popular items carousel, and search.
+
+<p align="center">
+  <img src="screenshots/02-home.png" alt="Home Screen" width="300" />
+</p>
+
+### Menu — Full Catalogue
+74 items with category filters, halal badges, photos, descriptions, and quick-add buttons.
+
+<p align="center">
+  <img src="screenshots/03-menu.png" alt="Menu" width="300" />
+</p>
+
+### Item Detail
+Product detail with hero image, add-ons (Extra Cheese, Jalapeños, Slaw, Avocado), quantity selector, and Add to Cart.
+
+<p align="center">
+  <img src="screenshots/04-item-detail.png" alt="Item Detail" width="300" />
+</p>
+
+### Cart & Checkout
+Cart with quantity controls, promo code entry, service fee breakdown, and checkout CTA.
+
+<p align="center">
+  <img src="screenshots/05-cart.png" alt="Cart" width="300" />
+</p>
+
+### Profile & Settings
+Guest/signed-in profile, branch selector, notification toggle, language setting, and halal certification info.
+
+<p align="center">
+  <img src="screenshots/06-profile.png" alt="Profile" width="300" />
+</p>
 
 ---
 
